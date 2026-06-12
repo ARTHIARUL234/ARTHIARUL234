@@ -17,8 +17,6 @@ Currently im[proving my Data Analytics and Business Intelligence
 ## Projects
 ### Sales Dashboard - Power BI
 Built an interactive dashboard to analyze sales performance and KPIs.
-### SQL Reporting Projects
-Created SQL queries to generate business reports and insights.
 ### Python Data Analysis
 Perfomed data cleaning, analysis, and visualization using python.
 ### Excel Dashboard
