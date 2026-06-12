@@ -26,5 +26,5 @@ Data Analyst Certification
 ## Career Objective
 Seeking an entry-level Data Analyst role where I can apply analytical skills, bussiness knowledge, and data visualization expertice to support data-driven decision-making.
 ## Connect with me
-- LinkedIn: www.linkedin.com/in/arthi-kumar-dataanalyst
+- LinkedIn: www.linkedin.com/in/arthi-arul-dataanalyst
 - Email: arthikumar626@gmail.com
